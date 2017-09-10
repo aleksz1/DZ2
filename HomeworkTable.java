@@ -11,9 +11,9 @@ public class table {
         String age = in.nextLine();
         System.out.println("Введите ваше хобби:");
         String hobby = in.nextLine();
-        System.out.println("Введите имя:"+name);
-                System.out.println("Введите город проживание:"+city);
-        System.out.println("Введите ваш возраст:"+age);
-        System.out.println("Введите ваше хобби:"+hobby);
+        System.out.println(«Имя:"+name);
+                System.out.println(«Город:»+city);
+        System.out.println(«Возраст:"+age);
+        System.out.println(«Хобби:"+hobby);
     }
 }
